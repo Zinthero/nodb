@@ -1,15 +1,23 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Songs from './components/Songs'
+import 'bootstrap/dist/css/bootstrap.min.css'
+import StarRatingComponent from 'react-star-rating-component';
+import PropTypes from 'prop-types'
+
+
+
 
 class App extends Component {
   render() {
+    
     return (
-      <div className="App">
+     
+     <Songs />
 
-      </div>
-    );
+  
+    )
   }
 }
 
-export default App;
+export default App

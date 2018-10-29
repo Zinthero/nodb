@@ -1,5 +1,5 @@
-.App {
-  text-align: center;
+body {
+  background-image:url(https://preview.redd.it/vqade7ssfyn01.png?width=640&crop=smart&auto=webp&s=1f23262f918cce2d01052f47649ea82947ef64b6)
 }
 
 .App-logo {
@@ -30,3 +30,4 @@
     transform: rotate(360deg);
   }
 }
+
